@@ -7,6 +7,7 @@
 1. 规则 1：同一排或同一列的方块移动顺序跟随具体的方向，比如上图中：向上移动 2 先移动，4 后移动；向下移动 4 先移动，2 后移动。
 
 2. 规则 2：每个方格都是移动到该方向的最后一个空白位置。
+![Image text](https://style.youkeda.com/img/course/f10/4/2.jpeg)
 ### 代码实现-遍历顺序
 
 我们设置一个方法，根据方向返回遍历路径，代码如下：
@@ -111,7 +112,7 @@ while (!this.grid.outOfRange(aim) && !next) {
 }
 ```
 
-![Image text](https://style.youkeda.com/img/course/f10/4/2.jpeg)
+
 
 ## 小结
 
