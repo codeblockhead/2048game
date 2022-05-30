@@ -9,7 +9,7 @@
 
 该项目是一个完全依赖原生 js 代码的文件,实现起来有一定难度
 直接使用 vscode 预览 index.html 即可运行
-这是一次修改
+这是一次修改 2
 
 ## 核心代码:
 
@@ -148,3 +148,4 @@ while (!this.grid.outOfRange(aim) && !next) {
 - Grid：游戏面板
 - Tile：游戏方格
   1
+  2
