@@ -139,3 +139,4 @@ while (!this.grid.outOfRange(aim) && !next) {
 - Render：游戏渲染器
 - Grid：游戏面板
 - Tile：游戏方格
+  1
